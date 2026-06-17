@@ -1,0 +1,19 @@
+Dataset Name: AB_NYC_2019-selected-columns.csv
+
+Dataset Size: 0.10 MB
+
+Number of Records: 48895
+
+Number of Columns: 16
+
+Dataset Type: Airbnb Listings Data
+
+Key Features:
+- Price
+- Room Type
+- Neighbourhood Group
+- Availability
+- Number of Reviews
+
+Purpose:
+Used for performing data cleaning tasks such as missing value handling, duplicate removal, standardization, and outlier detection.
