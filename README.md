@@ -4,7 +4,16 @@
 
 This project focuses on cleaning the Airbnb NYC 2019 dataset to improve data quality and prepare it for analysis. Data cleaning helps remove errors, inconsistencies, and unwanted data that may affect the results.
 
-## Dataset Name: AB_NYC_2019-selected-columns.csv
+Dataset Name: [AB_NYC_2019-selected-columns.csv](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+
+The dataset contains Airbnb listing information such as:
+Listing Name
+Host Name
+Neighbourhood Group
+Room Type
+Price
+Number of Reviews
+Availability
 
 ## Project Objective
 
